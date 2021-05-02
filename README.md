@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azhussainn
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React-Django
+- 🌱 I’m currently learning React +  Node
 - 📫 How to reach me:- email me: azhuss77@gmail.com
 
 <!---
